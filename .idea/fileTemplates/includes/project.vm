@@ -1,0 +1,4 @@
+#set ($ProjectName="MyGreatProject")
+#set ($ProjectLicense="Apache 2 License")
+#set ($ProjectUrl="http://example.com/")
+#set ($ProjectVersion=1.0.0)
